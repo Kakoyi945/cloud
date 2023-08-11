@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T16:14:32.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="_CFrDIYcqpmgixxMs3dZ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T16:17:30.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="fh8nlmy2KnfpkHCYlPC1" version="21.6.8" type="github">
   <diagram name="第 1 页" id="dkpb0oLQ5tQxNxTFlQfh">
     <mxGraphModel dx="1996" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,9 +55,6 @@
         </mxCell>
         <mxCell id="2FzKt-xkuusyKrmXD5t9-33" value="ingress" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="566.8" y="691.25" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2FzKt-xkuusyKrmXD5t9-39" value="decode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="469.55" y="481.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FzKt-xkuusyKrmXD5t9-54" value="svc_process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710.75" y="275" width="82.5" height="40" as="geometry" />
@@ -243,17 +240,14 @@
             <mxPoint x="-280" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2FzKt-xkuusyKrmXD5t9-127" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.993;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#a0522d;strokeColor=#6D1F00;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="469.55" y="496.25" as="sourcePoint" />
-            <mxPoint x="392.5000000000003" y="496.4200000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2FzKt-xkuusyKrmXD5t9-129" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="694" y="705.66" as="sourcePoint" />
             <mxPoint x="624" y="706" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2FzKt-xkuusyKrmXD5t9-130" value="快速回复模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="444.55" y="420" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
