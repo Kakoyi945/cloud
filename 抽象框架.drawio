@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T08:39:26.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" version="21.6.8" etag="xybtUgLBb5Sjv1McfxAd" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T08:43:11.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="bNHsma0gCDNMIuMZLcIc" version="21.6.8" type="github">
   <diagram name="第 1 页" id="O623X_YfpJGWirx1yeM5">
-    <mxGraphModel>
+    <mxGraphModel dx="996" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vRw4z7j-ilemCp1iJh7U-1" value="NFS-Ganesha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRw4z7j-ilemCp1iJh7U-2" value="TC ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vRw4z7j-ilemCp1iJh7U-3" value="TC egress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vRw4z7j-ilemCp1iJh7U-6" value="kernel module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vRw4z7j-ilemCp1iJh7U-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="160" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRw4z7j-ilemCp1iJh7U-8" value="Network&lt;br&gt;Stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vRw4z7j-ilemCp1iJh7U-9" value="User Space" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRw4z7j-ilemCp1iJh7U-10" value="Kernel Space" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
