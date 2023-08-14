@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T09:38:47.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="VLFr5uuDZyVx7BEzgIoX" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T09:39:01.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="3m-sHZYRXywCg2ubtEEr" version="21.6.8" type="github">
   <diagram name="第 1 页" id="O623X_YfpJGWirx1yeM5">
     <mxGraphModel dx="996" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vRw4z7j-ilemCp1iJh7U-1" value="NFS-Ganesha" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="vRw4z7j-ilemCp1iJh7U-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;NFS-Ganesha&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vRw4z7j-ilemCp1iJh7U-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Network&lt;br&gt;Stack&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
