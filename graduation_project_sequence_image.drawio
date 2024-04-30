@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T15:54:52.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="H7rLtpMF4iijuv7ZZtSG" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T16:01:55.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="G37IBvHT00qi6i6iryMp" version="24.3.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="834" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -31,13 +31,6 @@
             <mxPoint x="45" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tDSSOY3JjB5FIB1IRcV5-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;发送请求获取下一天的农田场景&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="7baba1c4bc27f4b0-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="560" as="sourcePoint" />
-            <mxPoint x="280" y="560" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;:可视化界面&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="100" height="640" as="geometry" />
         </mxCell>
@@ -51,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tDSSOY3JjB5FIB1IRcV5-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-3">
-          <mxGeometry x="45" y="420" width="10" height="70" as="geometry" />
+          <mxGeometry x="45" y="420" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tDSSOY3JjB5FIB1IRcV5-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;返回下一天&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;的数据集信息&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="7baba1c4bc27f4b0-3" target="7baba1c4bc27f4b0-3">
           <mxGeometry x="0.0044" relative="1" as="geometry">
@@ -61,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tDSSOY3JjB5FIB1IRcV5-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-3">
-          <mxGeometry x="45" y="295" width="10" height="100" as="geometry" />
+          <mxGeometry x="45" y="250" width="10" height="145" as="geometry" />
         </mxCell>
         <mxCell id="tDSSOY3JjB5FIB1IRcV5-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;发送请求获取下一天的农田场景&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.067;entryY=0.244;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-3">
           <mxGeometry relative="1" as="geometry">
@@ -89,8 +82,8 @@
         <mxCell id="tDSSOY3JjB5FIB1IRcV5-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-4">
           <mxGeometry x="45" y="360" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tDSSOY3JjB5FIB1IRcV5-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;发送请求获取下一天的农田场景&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.067;entryY=0.244;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-4" target="tDSSOY3JjB5FIB1IRcV5-22">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="tDSSOY3JjB5FIB1IRcV5-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;发送下一天的日期&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.067;entryY=0.244;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-4" target="tDSSOY3JjB5FIB1IRcV5-22">
+          <mxGeometry x="-0.0029" relative="1" as="geometry">
             <mxPoint x="55" y="380" as="sourcePoint" />
             <mxPoint x="280" y="380" as="targetPoint" />
             <mxPoint as="offset" />
@@ -103,11 +96,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tDSSOY3JjB5FIB1IRcV5-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry x="45" y="550" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tDSSOY3JjB5FIB1IRcV5-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="600" as="sourcePoint" />
+            <mxPoint x="55" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="95" y="610" />
+              <mxPoint x="95" y="570" />
+              <mxPoint x="65" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;:模型层&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="100" height="640" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-5" vertex="1">
           <mxGeometry x="45" y="230" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tDSSOY3JjB5FIB1IRcV5-35" value="调用模型进行预测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7baba1c4bc27f4b0-5">
+          <mxGeometry x="-20" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;:持久化层&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="720" y="80" width="100" height="640" as="geometry" />
@@ -178,6 +188,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170.50380952380954" y="560" as="targetPoint" />
             <mxPoint x="285" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tDSSOY3JjB5FIB1IRcV5-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;发送请求预测在该气象&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;条件下作物长势的变化&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.1;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tDSSOY3JjB5FIB1IRcV5-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="640" as="sourcePoint" />
+            <mxPoint x="520" y="640" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
