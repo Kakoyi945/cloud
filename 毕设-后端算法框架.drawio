@@ -1,98 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T09:57:02.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="knzayL5anlI5-lEvZ3TC" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T12:52:15.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="3gqJDPfmzDybCdScU3CC" version="24.4.13" type="github">
   <diagram name="第 1 页" id="wAjerhzlpSoEGilm8JdT">
     <mxGraphModel dx="1001" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i94oOJMdh8xYtGXgy04V-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="150" width="76" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="i94oOJMdh8xYtGXgy04V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.67;exitY=1.049;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.053;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="uthBF2mPYl1_0nmI9Oaa-1" target="jEoEv_j-cHMGnPsPwui8-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uthBF2mPYl1_0nmI9Oaa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="165" y="185" width="200" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="uthBF2mPYl1_0nmI9Oaa-14" value="土壤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="150" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uthBF2mPYl1_0nmI9Oaa-15" value="降水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="185" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uthBF2mPYl1_0nmI9Oaa-18" value="气象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="445" y="215" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uthBF2mPYl1_0nmI9Oaa-23" value="作物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="255" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-1" value="&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="165" width="130" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-13" value="DVS 作物发育阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="15" y="165" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-14" value="LAI 叶面积指数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="15" y="195" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-15" value="TGAP 地上生物量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="15" y="225" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-16" value="WSO 产量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="255" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-17" value="WLV 叶总生物量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="15" y="285" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-18" value="WST 茎秆总生物量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="15" y="315" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-19" value="TSUM 出苗起有效积温" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="12.5" y="345" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-25" value="模拟结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="150" width="140" height="240" as="geometry">
-            <mxRectangle x="740" y="190" width="90" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-26" value="DVS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="jEoEv_j-cHMGnPsPwui8-25" vertex="1">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-27" value="TSUM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="jEoEv_j-cHMGnPsPwui8-25" vertex="1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-28" value="WLV" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="jEoEv_j-cHMGnPsPwui8-25" vertex="1">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-40" value="WST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="jEoEv_j-cHMGnPsPwui8-25" vertex="1">
-          <mxGeometry y="120" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-41" value="WSO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="jEoEv_j-cHMGnPsPwui8-25" vertex="1">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-42" value="TAGP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="jEoEv_j-cHMGnPsPwui8-25" vertex="1">
-          <mxGeometry y="180" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jEoEv_j-cHMGnPsPwui8-43" value="LAI" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="jEoEv_j-cHMGnPsPwui8-25" vertex="1">
-          <mxGeometry y="210" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i94oOJMdh8xYtGXgy04V-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;农作物受灾预测功能模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="194.38" width="210" height="46.25" as="geometry" />
-        </mxCell>
-        <mxCell id="i94oOJMdh8xYtGXgy04V-2" value="时序预测模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="165" y="325" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i94oOJMdh8xYtGXgy04V-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.045;exitY=0.444;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i94oOJMdh8xYtGXgy04V-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445" y="209.5" as="sourcePoint" />
-            <mxPoint x="365" y="209.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i94oOJMdh8xYtGXgy04V-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="225" y="320" as="sourcePoint" />
-            <mxPoint x="224.5" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
