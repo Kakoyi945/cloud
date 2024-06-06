@@ -1,35 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T12:32:29.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="0ECW8Gb7rzpihX8Sy2oI" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T06:41:10.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="rOIo1kDao-T1_NHdsR8i" version="24.4.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="9wWxu0kGqZDcnAxxwslG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9wWxu0kGqZDcnAxxwslG-0">
+        <mxCell id="A7aLh-P_sMoxLSViLuQI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A7aLh-P_sMoxLSViLuQI-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="600" as="targetPoint" />
+            <mxPoint x="465" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9wWxu0kGqZDcnAxxwslG-0" value="基于Unity搭建3D模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="A7aLh-P_sMoxLSViLuQI-0" value="选择历史数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="460" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9wWxu0kGqZDcnAxxwslG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9wWxu0kGqZDcnAxxwslG-2">
+        <mxCell id="A7aLh-P_sMoxLSViLuQI-3" value="根据历史数据集仿真3D场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="570" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A7aLh-P_sMoxLSViLuQI-4" value="选择历史数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="680" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A7aLh-P_sMoxLSViLuQI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="600" as="targetPoint" />
+            <mxPoint x="464.5" y="680" as="targetPoint" />
+            <mxPoint x="464.5" y="630" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="9wWxu0kGqZDcnAxxwslG-2" value="搭建前后端框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9wWxu0kGqZDcnAxxwslG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9wWxu0kGqZDcnAxxwslG-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9wWxu0kGqZDcnAxxwslG-4" value="时序预测算法设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9wWxu0kGqZDcnAxxwslG-6" value="系统测试和验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
