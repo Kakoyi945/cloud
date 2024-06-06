@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T08:40:08.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="47P2LRQ7yCeS7pEsZJcr" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T08:43:13.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="tUAmCWxeWa6AqlWu41qG" version="24.4.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,13 +9,13 @@
             <mxPoint x="465" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A7aLh-P_sMoxLSViLuQI-0" value="选择历史数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A7aLh-P_sMoxLSViLuQI-0" value="选择历史数据集，包括农作物信息、气象信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="460" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A7aLh-P_sMoxLSViLuQI-3" value="根据历史数据集仿真3D场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A7aLh-P_sMoxLSViLuQI-3" value="根据历史数据集生成3D场景，仿真出某日期的地形、作物长势以及气象状况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="570" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A7aLh-P_sMoxLSViLuQI-4" value="修改气象条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A7aLh-P_sMoxLSViLuQI-4" value="用户修改气象条件，包括降水量、辐射强度、温度、风场强度、是否降雪等，作为当前气象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="680" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A7aLh-P_sMoxLSViLuQI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
