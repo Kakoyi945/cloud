@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T12:59:16.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="q8wte1YnEDkY8ptfZUHT" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T03:30:13.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="LhB1dGIsEdJ8uHtoJI14" version="24.5.4" type="github">
   <diagram name="第 1 页" id="wAjerhzlpSoEGilm8JdT">
-    <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1001" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,9 +180,6 @@
         </mxCell>
         <mxCell id="IabnMmZauZTs6oDPEaI3-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="440" width="160" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="IabnMmZauZTs6oDPEaI3-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IabnMmZauZTs6oDPEaI3-31" value="X : 气象数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;C : 作物数据&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;h7 : encoder的隐藏层&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Y : 中间结果&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Z : 预测结果&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="450" width="135" height="130" as="geometry" />
